@@ -20,8 +20,8 @@ const PaymentInstructions = () => {
 
   const amount = "6,700";
   const accountNumber = "8154628131";
-  const bankName = "PALMPAY";
-  const accountName = "CAROLINE IYANU OMOKUWAJO";
+  const bankName = "TENN BANK";
+  const accountName = "OLATUNJI SEGUN";
   const referenceId = `REF${Date.now()}`;
 
   const copyToClipboard = (text: string, field: string) => {
