@@ -19,9 +19,9 @@ const PaymentInstructions = () => {
   const [showFailure, setShowFailure] = useState(false);
 
   const amount = "8,250";
-  const accountNumber = "5178134116";
+  const accountNumber = "5693138967";
   const bankName = "MONIEPOINT MFB";
-  const accountName = "BOSEDE ADEWOLE";
+  const accountName = "CAROLINE IYANA OMOKUWAJO";
   const referenceId = `REF${Date.now()}`;
 
   const copyToClipboard = (text: string, field: string) => {
